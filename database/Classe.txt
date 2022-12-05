@@ -1,0 +1,5 @@
+Classe
+idClasse Classe  
+1 S1  
+2 S2  
+3 S3  

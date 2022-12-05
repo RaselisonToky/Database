@@ -1,0 +1,7 @@
+Etudiant
+idEtudiant Nom idMatiere idClasse  
+1 Tendry 1 2  
+2 Aina 3 2  
+3 Toky 2 3  
+4 Jerry 2 1  
+5 Allan 1 3  
